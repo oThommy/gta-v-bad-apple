@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "ffmpeg-extract-frames": "^2.0.2",
-    "fluent-ffmpeg": "^2.1.2",
-    "image-pixels": "^2.2.2",
-    "jimp": "^0.16.1"
-  }
-}
